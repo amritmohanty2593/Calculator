@@ -1,0 +1,23 @@
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\bin\Debug\net8.0\CalculatorUI.Core.deps.json
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\bin\Debug\net8.0\CalculatorUI.Core.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\bin\Debug\net8.0\CalculatorUI.Core.pdb
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.AssemblyInfoInputs.cache
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.AssemblyInfo.cs
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.csproj.CoreCompileInputs.cache
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\obj\Debug\net8.0\refint\CalculatorUI.Core.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.pdb
+D:\Study Material\MicroServices\Calculator\CalculatorUI.Core\obj\Debug\net8.0\ref\CalculatorUI.Core.dll
+D:\AmritSolutions\Calculator\CalculatorUI.Core\bin\Debug\net8.0\CalculatorUI.Core.deps.json
+D:\AmritSolutions\Calculator\CalculatorUI.Core\bin\Debug\net8.0\CalculatorUI.Core.dll
+D:\AmritSolutions\Calculator\CalculatorUI.Core\bin\Debug\net8.0\CalculatorUI.Core.pdb
+D:\AmritSolutions\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AmritSolutions\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.AssemblyInfoInputs.cache
+D:\AmritSolutions\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.AssemblyInfo.cs
+D:\AmritSolutions\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.csproj.CoreCompileInputs.cache
+D:\AmritSolutions\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.sourcelink.json
+D:\AmritSolutions\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.dll
+D:\AmritSolutions\Calculator\CalculatorUI.Core\obj\Debug\net8.0\refint\CalculatorUI.Core.dll
+D:\AmritSolutions\Calculator\CalculatorUI.Core\obj\Debug\net8.0\CalculatorUI.Core.pdb
+D:\AmritSolutions\Calculator\CalculatorUI.Core\obj\Debug\net8.0\ref\CalculatorUI.Core.dll
