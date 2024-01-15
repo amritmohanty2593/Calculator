@@ -1,0 +1,65 @@
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.AssemblyInfoInputs.cache
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.AssemblyInfo.cs
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.csproj.CoreCompileInputs.cache
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.exe
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.deps.json
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.runtimeconfig.json
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.pdb
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.Calculator.resources
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.csproj.GenerateResource.cache
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\refint\CalculatorUI.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.pdb
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.genruntimeconfig.cache
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\ref\CalculatorUI.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.Properties.Resources.resources
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.csproj.AssemblyReference.cache
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.Core.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.Core.pdb
+D:\Study Material\MicroServices\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.csproj.CopyComplete
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Extensions.Logging.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Sinks.Console.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Sinks.Debug.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Sinks.File.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.AspNetCore.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Extensions.Hosting.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Formatting.Compact.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Settings.Configuration.dll
+D:\Study Material\MicroServices\Calculator\CalculatorUI\bin\Debug\net8.0-windows\appsettings.json
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.exe
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\appsettings.json
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.deps.json
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.runtimeconfig.json
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.pdb
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.AspNetCore.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Extensions.Hosting.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Extensions.Logging.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Formatting.Compact.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Settings.Configuration.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Sinks.Console.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Sinks.Debug.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\Serilog.Sinks.File.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.Core.dll
+D:\AmritSolutions\Calculator\CalculatorUI\bin\Debug\net8.0-windows\CalculatorUI.Core.pdb
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.csproj.AssemblyReference.cache
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.Calculator.resources
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.Properties.Resources.resources
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.csproj.GenerateResource.cache
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.AssemblyInfoInputs.cache
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.AssemblyInfo.cs
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.csproj.CoreCompileInputs.cache
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.sourcelink.json
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.csproj.CopyComplete
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.dll
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\refint\CalculatorUI.dll
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.pdb
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\CalculatorUI.genruntimeconfig.cache
+D:\AmritSolutions\Calculator\CalculatorUI\obj\Debug\net8.0-windows\ref\CalculatorUI.dll

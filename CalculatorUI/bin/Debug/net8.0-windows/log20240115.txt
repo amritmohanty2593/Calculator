@@ -1,0 +1,157 @@
+2024-01-15 23:21:08.929 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:09.303 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:09.913 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:10.283 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:10.569 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:11.241 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:11.627 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:11.835 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:12.123 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:12.518 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:13.658 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:13.880 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:14.092 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:14.347 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:14.588 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:47.458 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:47.710 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:48.015 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:48.636 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:48.846 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:49.135 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:21:49.378 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:27:05.280 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:27:05.797 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:27:06.085 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:27:06.518 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:27:07.096 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:27:07.431 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:27:07.676 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:27:07.899 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:27:08.077 +05:30 [INF] asdajksdghaghkdaksdkagds
+2024-01-15 23:42:17.172 +05:30 [INF] Application Started
+2024-01-15 23:42:26.109 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:26.115 +05:30 [INF] Button Pressed:5
+2024-01-15 23:42:26.118 +05:30 [INF] 5
+2024-01-15 23:42:29.297 +05:30 [INF] OnClickArithmaticSymbol Button Clicked
+2024-01-15 23:42:29.299 +05:30 [INF] Operator Pressed:+
+2024-01-15 23:42:29.306 +05:30 [INF] 5 +
+2024-01-15 23:42:34.089 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:34.092 +05:30 [INF] Button Pressed:3
+2024-01-15 23:42:34.096 +05:30 [INF] 3
+2024-01-15 23:42:35.241 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:42:35.244 +05:30 [INF] 8
+2024-01-15 23:42:35.248 +05:30 [INF] 
+5 + 3 = 
+8
+2024-01-15 23:42:44.767 +05:30 [INF] OnClickArithmaticSymbol Button Clicked
+2024-01-15 23:42:44.768 +05:30 [INF] Operator Pressed:+
+2024-01-15 23:42:44.771 +05:30 [INF] 8 +
+2024-01-15 23:42:52.199 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:52.202 +05:30 [INF] Button Pressed:5
+2024-01-15 23:42:52.203 +05:30 [INF] 5
+2024-01-15 23:42:52.696 +05:30 [INF] OnClickArithmaticSymbol Button Clicked
+2024-01-15 23:42:52.698 +05:30 [INF] Operator Pressed:+
+2024-01-15 23:42:52.700 +05:30 [INF] 13 +
+2024-01-15 23:42:53.369 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:53.373 +05:30 [INF] Button Pressed:9
+2024-01-15 23:42:53.379 +05:30 [INF] 9
+2024-01-15 23:42:53.562 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:53.564 +05:30 [INF] Button Pressed:8
+2024-01-15 23:42:53.565 +05:30 [INF] 98
+2024-01-15 23:42:53.802 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:53.804 +05:30 [INF] Button Pressed:5
+2024-01-15 23:42:53.805 +05:30 [INF] 985
+2024-01-15 23:42:54.300 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:54.302 +05:30 [INF] Button Pressed:6
+2024-01-15 23:42:54.306 +05:30 [INF] 9856
+2024-01-15 23:42:55.339 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:55.341 +05:30 [INF] Button Pressed:2
+2024-01-15 23:42:55.343 +05:30 [INF] 98562
+2024-01-15 23:42:56.124 +05:30 [INF] OnClickArithmaticSymbol Button Clicked
+2024-01-15 23:42:56.127 +05:30 [INF] Operator Pressed:+
+2024-01-15 23:42:56.128 +05:30 [INF] 98575 +
+2024-01-15 23:42:56.574 +05:30 [INF] OnClickArithmaticSymbol Button Clicked
+2024-01-15 23:42:56.576 +05:30 [INF] Operator Pressed:-
+2024-01-15 23:42:56.578 +05:30 [INF] 0 -
+2024-01-15 23:42:56.976 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:56.979 +05:30 [INF] Button Pressed:6
+2024-01-15 23:42:56.980 +05:30 [INF] 6
+2024-01-15 23:42:57.184 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:57.186 +05:30 [INF] Button Pressed:5
+2024-01-15 23:42:57.187 +05:30 [INF] 65
+2024-01-15 23:42:57.439 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:57.443 +05:30 [INF] Button Pressed:3
+2024-01-15 23:42:57.444 +05:30 [INF] 653
+2024-01-15 23:42:58.101 +05:30 [INF] OnClickArithmaticSymbol Button Clicked
+2024-01-15 23:42:58.103 +05:30 [INF] Operator Pressed:×
+2024-01-15 23:42:58.106 +05:30 [INF] 653 ×
+2024-01-15 23:42:58.672 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:58.673 +05:30 [INF] Button Pressed:6
+2024-01-15 23:42:58.675 +05:30 [INF] 6
+2024-01-15 23:42:59.106 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:59.109 +05:30 [INF] Button Pressed:5
+2024-01-15 23:42:59.111 +05:30 [INF] 65
+2024-01-15 23:42:59.393 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:42:59.395 +05:30 [INF] Button Pressed:2
+2024-01-15 23:42:59.396 +05:30 [INF] 652
+2024-01-15 23:43:00.356 +05:30 [INF] OnClickArithmaticSymbol Button Clicked
+2024-01-15 23:43:00.359 +05:30 [INF] Operator Pressed:÷
+2024-01-15 23:43:00.363 +05:30 [INF] 1.0015337423312884 ÷
+2024-01-15 23:43:01.508 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:43:01.509 +05:30 [INF] Button Pressed:3
+2024-01-15 23:43:01.510 +05:30 [INF] 3
+2024-01-15 23:43:01.909 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:43:01.911 +05:30 [INF] Button Pressed:2
+2024-01-15 23:43:01.912 +05:30 [INF] 32
+2024-01-15 23:43:02.133 +05:30 [INF] OnClickNumbers Button Clicked
+2024-01-15 23:43:02.134 +05:30 [INF] Button Pressed:5
+2024-01-15 23:43:02.137 +05:30 [INF] 325
+2024-01-15 23:43:02.743 +05:30 [INF] OnClickArithmaticSymbol Button Clicked
+2024-01-15 23:43:02.745 +05:30 [INF] Operator Pressed:+
+2024-01-15 23:43:02.753 +05:30 [INF] 326.0015337423313 +
+2024-01-15 23:43:03.176 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:43:03.180 +05:30 [INF] 652.0030674846626
+2024-01-15 23:43:03.183 +05:30 [INF] 
+326.0015337423313 + 326.0015337423313 = 
+652.0030674846626
+2024-01-15 23:43:09.350 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:43:09.355 +05:30 [INF] 0
+2024-01-15 23:43:09.358 +05:30 [INF] 652.0030674846626 =
+2024-01-15 23:43:09.360 +05:30 [INF] 
+0 =
+2024-01-15 23:43:09.527 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:43:09.531 +05:30 [INF] 0
+2024-01-15 23:43:09.533 +05:30 [INF] 0 =
+2024-01-15 23:43:09.534 +05:30 [INF] 
+0 =
+2024-01-15 23:43:09.701 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:43:09.704 +05:30 [INF] 0
+2024-01-15 23:43:09.705 +05:30 [INF] 0 =
+2024-01-15 23:43:09.707 +05:30 [INF] 
+0 =
+2024-01-15 23:43:09.846 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:43:09.849 +05:30 [INF] 0
+2024-01-15 23:43:09.851 +05:30 [INF] 0 =
+2024-01-15 23:43:09.853 +05:30 [INF] 
+0 =
+2024-01-15 23:43:10.009 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:43:10.014 +05:30 [INF] 0
+2024-01-15 23:43:10.018 +05:30 [INF] 0 =
+2024-01-15 23:43:10.021 +05:30 [INF] 
+0 =
+2024-01-15 23:43:10.169 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:43:10.174 +05:30 [INF] 0
+2024-01-15 23:43:10.178 +05:30 [INF] 0 =
+2024-01-15 23:43:10.181 +05:30 [INF] 
+0 =
+2024-01-15 23:43:10.311 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:43:10.314 +05:30 [INF] 0
+2024-01-15 23:43:10.317 +05:30 [INF] 0 =
+2024-01-15 23:43:10.319 +05:30 [INF] 
+0 =
+2024-01-15 23:43:10.489 +05:30 [INF] Equal Button Clicked
+2024-01-15 23:43:10.492 +05:30 [INF] 0
+2024-01-15 23:43:10.493 +05:30 [INF] 0 =
+2024-01-15 23:43:10.495 +05:30 [INF] 
+0 =
